@@ -1,7 +1,6 @@
 package com.example.ClinicaProyecto.service;
 
 import com.example.ClinicaProyecto.entity.Domicilio;
-import com.example.ClinicaProyecto.entity.Odontologo;
 import com.example.ClinicaProyecto.entity.Paciente;
 import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.Order;
