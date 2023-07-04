@@ -567,3 +567,83 @@
 [2023-06-30 14:45:59] [ INFO ] [PacienteController:86] Paciente eliminado con exito
 [2023-06-30 14:46:00] [ INFO ] [OdontologoController:28] Listando todos los odontologos
 [2023-06-30 14:46:01] [ INFO ] [OdontologoController:85] Se elimino correctamente el odontologo
+[2023-07-03 19:09:18] [ INFO ] [OdontologoController:61] Registrando nuevo odontologo
+[2023-07-03 19:09:21] [ INFO ] [OdontologoController:61] Registrando nuevo odontologo
+[2023-07-03 19:09:23] [ INFO ] [OdontologoController:28] Listando todos los odontologos
+[2023-07-03 19:09:38] [ INFO ] [PacienteController:62] Registrando paciente
+[2023-07-03 19:09:56] [ INFO ] [PacienteController:62] Registrando paciente
+[2023-07-03 19:09:58] [ INFO ] [PacienteController:28] Buscando lista de pacientes
+[2023-07-03 19:10:13] [ INFO ] [TurnoController:54] Listando todos los turnos
+[2023-07-03 19:10:18] [ INFO ] [TurnoController:63] Buscando turno por id con exito
+[2023-07-03 19:10:28] [ INFO ] [TurnoController:91] Actualizando turno con éxito
+[2023-07-03 19:10:28] [ INFO ] [TurnoController:54] Listando todos los turnos
+[2023-07-03 19:10:32] [ INFO ] [TurnoController:77] Eliminando turno con exito
+[2023-07-03 19:10:34] [ INFO ] [PacienteController:28] Buscando lista de pacientes
+[2023-07-03 19:10:35] [ INFO ] [PacienteController:37] Paciente encontrado
+[2023-07-03 19:10:47] [ INFO ] [PacienteController:28] Buscando lista de pacientes
+[2023-07-03 19:11:01] [ INFO ] [PacienteController:37] Paciente encontrado
+[2023-07-03 19:11:26] [ INFO ] [PacienteController:72] Actualizando paciente correctamente
+[2023-07-03 19:11:26] [ INFO ] [PacienteController:28] Buscando lista de pacientes
+[2023-07-03 19:11:28] [ INFO ] [PacienteController:86] Paciente eliminado con exito
+[2023-07-03 19:11:29] [ INFO ] [PacienteController:86] Paciente eliminado con exito
+[2023-07-03 19:11:31] [ INFO ] [OdontologoController:28] Listando todos los odontologos
+[2023-07-03 19:11:32] [ INFO ] [OdontologoController:85] Se elimino correctamente el odontologo
+[2023-07-03 19:11:33] [ INFO ] [OdontologoController:37] Buscando odontologo por ID con exito
+[2023-07-03 19:11:36] [ INFO ] [OdontologoController:70] Se actualizo correctmente el odontologo
+[2023-07-03 19:11:36] [ INFO ] [OdontologoController:28] Listando todos los odontologos
+[2023-07-03 19:11:38] [ INFO ] [OdontologoController:85] Se elimino correctamente el odontologo
+[2023-07-03 19:41:41] [ INFO ] [OdontologoController:61] Registrando nuevo odontologo
+[2023-07-03 19:41:43] [ INFO ] [OdontologoController:61] Registrando nuevo odontologo
+[2023-07-03 20:50:18] [ INFO ] [OdontologoController:28] Listando todos los odontologos
+[2023-07-03 20:50:20] [ INFO ] [PacienteController:28] Buscando lista de pacientes
+[2023-07-03 20:50:21] [ INFO ] [TurnoController:54] Listando todos los turnos
+[2023-07-03 20:50:27] [ INFO ] [OdontologoController:61] Registrando nuevo odontologo
+[2023-07-03 20:50:28] [ INFO ] [OdontologoController:28] Listando todos los odontologos
+[2023-07-03 20:50:30] [ INFO ] [OdontologoController:37] Buscando odontologo por ID con exito
+[2023-07-03 20:50:33] [ INFO ] [OdontologoController:70] Se actualizo correctmente el odontologo
+[2023-07-03 20:50:33] [ INFO ] [OdontologoController:28] Listando todos los odontologos
+[2023-07-03 20:50:35] [ INFO ] [OdontologoController:85] Se elimino correctamente el odontologo
+[2023-07-03 20:50:45] [ INFO ] [PacienteController:28] Buscando lista de pacientes
+[2023-07-03 20:50:48] [ INFO ] [TurnoController:54] Listando todos los turnos
+[2023-07-03 20:50:51] [ INFO ] [PacienteController:28] Buscando lista de pacientes
+[2023-07-03 20:59:11] [ INFO ] [PacienteController:28] Buscando lista de pacientes
+[2023-07-03 20:59:13] [ INFO ] [TurnoController:54] Listando todos los turnos
+[2023-07-03 21:03:09] [ INFO ] [OdontologoController:61] Registrando nuevo odontologo
+[2023-07-03 21:03:11] [ INFO ] [OdontologoController:28] Listando todos los odontologos
+[2023-07-03 21:03:12] [ INFO ] [OdontologoController:37] Buscando odontologo por ID con exito
+[2023-07-03 21:03:16] [ INFO ] [OdontologoController:70] Se actualizo correctmente el odontologo
+[2023-07-03 21:03:16] [ INFO ] [OdontologoController:28] Listando todos los odontologos
+[2023-07-03 21:03:17] [ INFO ] [OdontologoController:85] Se elimino correctamente el odontologo
+[2023-07-03 21:03:22] [ INFO ] [OdontologoController:61] Registrando nuevo odontologo
+[2023-07-03 21:03:42] [ INFO ] [TurnoController:45] No se pudo registrar el turno
+[2023-07-03 21:03:48] [ INFO ] [PacienteController:28] Buscando lista de pacientes
+[2023-07-03 21:04:15] [ INFO ] [PacienteController:28] Buscando lista de pacientes
+[2023-07-03 21:05:30] [ INFO ] [OdontologoController:61] Registrando nuevo odontologo
+[2023-07-03 21:05:32] [ INFO ] [OdontologoController:28] Listando todos los odontologos
+[2023-07-03 21:05:55] [ INFO ] [PacienteController:62] Registrando paciente
+[2023-07-03 21:05:58] [ INFO ] [PacienteController:28] Buscando lista de pacientes
+[2023-07-03 21:05:59] [ INFO ] [PacienteController:37] Paciente encontrado
+[2023-07-03 21:06:10] [ INFO ] [PacienteController:72] Actualizando paciente correctamente
+[2023-07-03 21:06:10] [ INFO ] [PacienteController:28] Buscando lista de pacientes
+[2023-07-03 21:06:13] [ INFO ] [PacienteController:86] Paciente eliminado con exito
+[2023-07-03 21:06:24] [ INFO ] [PacienteController:62] Registrando paciente
+[2023-07-03 21:06:26] [ INFO ] [PacienteController:28] Buscando lista de pacientes
+[2023-07-03 21:06:27] [ INFO ] [OdontologoController:28] Listando todos los odontologos
+[2023-07-03 21:06:29] [ INFO ] [TurnoController:54] Listando todos los turnos
+[2023-07-03 21:06:34] [ INFO ] [TurnoController:45] No se pudo registrar el turno
+[2023-07-03 21:06:49] [ INFO ] [TurnoController:45] No se pudo registrar el turno
+[2023-07-03 21:06:52] [ INFO ] [TurnoController:54] Listando todos los turnos
+[2023-07-03 21:07:45] [ INFO ] [TurnoController:54] Listando todos los turnos
+[2023-07-03 21:07:49] [ INFO ] [OdontologoController:61] Registrando nuevo odontologo
+[2023-07-03 21:07:51] [ INFO ] [OdontologoController:28] Listando todos los odontologos
+[2023-07-03 21:07:55] [ INFO ] [OdontologoController:37] Buscando odontologo por ID con exito
+[2023-07-03 21:07:59] [ INFO ] [OdontologoController:70] Se actualizo correctmente el odontologo
+[2023-07-03 21:07:59] [ INFO ] [OdontologoController:28] Listando todos los odontologos
+[2023-07-03 21:08:13] [ INFO ] [PacienteController:62] Registrando paciente
+[2023-07-03 21:08:15] [ INFO ] [PacienteController:28] Buscando lista de pacientes
+[2023-07-03 21:08:17] [ INFO ] [PacienteController:37] Paciente encontrado
+[2023-07-03 21:08:24] [ INFO ] [PacienteController:72] Actualizando paciente correctamente
+[2023-07-03 21:08:24] [ INFO ] [PacienteController:28] Buscando lista de pacientes
+[2023-07-03 21:08:35] [ INFO ] [TurnoController:54] Listando todos los turnos
+[2023-07-03 21:08:37] [ INFO ] [TurnoController:63] Buscando turno por id con exito
+[2023-07-03 21:08:39] [ INFO ] [TurnoController:77] Eliminando turno con exito
